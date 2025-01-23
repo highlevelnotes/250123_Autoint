@@ -24,9 +24,9 @@
 
 ### 🤦🏻‍♀️ Streamlit 구현 이미지
 ![](https://github.com/highlevelnotes/250123_project_AutoInt/blob/main/image/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-23%20153438.png)
-
+---
 ![](https://github.com/highlevelnotes/250123_project_AutoInt/blob/main/image/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-23%20153452.png)
-
+---
 ![](https://github.com/highlevelnotes/250123_project_AutoInt/blob/main/image/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-23%20153538.png)
 <br>
 
