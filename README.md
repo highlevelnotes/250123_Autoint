@@ -1,6 +1,3 @@
-# Movielens 1M 데이터셋과 AutoInt 및 AutoInt+ 모델을 통한 
-
-
 # [AutoInt, Movielens 1M] 추천 시스템 구축 프로젝트 📚
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
@@ -26,7 +23,8 @@
 
 
 ### 🤦🏻‍♀️ Streamlit 구현 이미지
-![](image/스크린샷 2025-01-23 153438.png)
+![](image/'스크린샷 2025-01-23 153438.png')
+
 ![](image/스크린샷 2025-01-23 153452.png)
 ![](image/스크린샷 2025-01-23 153538.png)
 <br>
